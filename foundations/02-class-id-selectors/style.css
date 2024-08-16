@@ -1,11 +1,9 @@
-.odd1,
-.odd3,
-.odd5 {
+.odd {
     background-color: lightpink;
     font-family: Verdana, Dejavu Sans, sans-serif;
 }
 
-.odd3 {
+.font_size {
     font-size: 32px;
 }
 
