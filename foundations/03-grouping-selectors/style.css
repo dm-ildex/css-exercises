@@ -1,6 +1,6 @@
 .click-button {
     font-size: 28px;
-    font-family: Helverica, 'Times New Roman', sans-serif;
+    font-family: "Helverica", "Times New Roman", sans-serif;
 }
 
 .left {
@@ -10,5 +10,5 @@
 
 .right {
     background-color: yellow;
-    
+
 }
